@@ -1,0 +1,10 @@
+{
+  "name": "discord-cpe-edt",
+  "version": "1.0.0",
+  "description": "A discord bot to fetch time schedule from WebAurion",
+  "main": "./src/index.js",
+  "repository": "https://github.com/trazeklay/discord-cpe-edt.git",
+  "author": "Clément TROMPIER <contact@clemtormpier.fr>",
+  "license": "MIT",
+  "private": true
+}
